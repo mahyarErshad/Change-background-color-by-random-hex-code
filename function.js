@@ -19,4 +19,3 @@ document.getElementsByTagName("h1")[0].addEventListener("click", function(){
 document.querySelector("main").addEventListener("click" , function(){
     console.log("hello")
 } )
-// e.stopPropagation
